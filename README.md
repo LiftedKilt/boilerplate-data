@@ -1,9 +1,15 @@
-# WeDeploy Data / Basic Boilerplate
+[![Deploy](https://cdn.wedeploy.com/images/deploy.svg)](https://console.wedeploy.com/deploy?repo=https://github.com/wedeploy-examples/data-example)
 
-This template will help you through the process of deploying a WeDeploy Data container.
+# WeDeploy Data
 
-> [Visit the documentation to learn how to start saving and fetching data in realtime.](http://wedeploy.com/docs/data/)
+An example of [WeDeploy Data](https://wedeploy.com/docs/data/).
 
-## Related
+## Instructions
 
-* [WeDeploy Data / JavaScript Boilerplate](https://github.com/wedeploy/boilerplate-data/tree/js)
+1. Install the [WeDeploy CLI](https://wedeploy.com/docs/intro/using-the-command-line/).
+2. Clone this repository.
+3. Open the project with your command line and run `we deploy -p yourproject`.
+
+## License
+
+[BSD-3-Clause](./LICENSE.md), © Liferay, Inc.
